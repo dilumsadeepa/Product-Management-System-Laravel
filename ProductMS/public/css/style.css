@@ -5,3 +5,14 @@
 .error{
     color: red;
 }
+.welcome-box{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    transform: translateX(50%);
+}
+
+.welcome-box h1{
+    text-align: center;
+    color: white;
+}
